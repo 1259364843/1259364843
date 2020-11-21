@@ -19,3 +19,5 @@ Here are some ideas to get you started:
 - 就读于四川某大学
 - CS专业闲鱼
 - 🚲🧑👨‍🎓🎵
+- 💬 Ask me about everthing
+
