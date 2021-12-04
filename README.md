@@ -21,3 +21,5 @@ Here are some ideas to get you started:
 - 🚲🧑👨‍🎓🎵
 - 💬 Ask me about everthing
 
+
+![Alt](https://repobeats.axiom.co/api/embed/ec7809c22a8ee69e67346d546817c87e8a2a3159.svg "Repobeats analytics image")
